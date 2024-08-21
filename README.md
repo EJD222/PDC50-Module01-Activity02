@@ -6,7 +6,7 @@
     Date Submitted: August 21, 2024
 
 ### Source Code
-- [MainPage.xaml](PDC50-Module01-Activity02/Module01Activity02/MainPage.xaml)
+- [MainPage.xaml](Module01Activity02/MainPage.xaml)
 - [MainPage.xaml.cs](PDC50-Module01-Activity02/Module01Activity02/MainPage.xaml.cs)
 - [CurrentDateExtension.cs](PDC50-Module01-Activity02/Module01Activity02/CurrentDateExtension.cs)
 
