@@ -7,8 +7,8 @@
 
 ### Source Code
 - [MainPage.xaml](Module01Activity02/MainPage.xaml)
-- [MainPage.xaml.cs](PDC50-Module01-Activity02/Module01Activity02/MainPage.xaml.cs)
-- [CurrentDateExtension.cs](PDC50-Module01-Activity02/Module01Activity02/CurrentDateExtension.cs)
+- [MainPage.xaml.cs](Module01Activity02/MainPage.xaml.cs)
+- [CurrentDateExtension.cs](Module01Activity02/CurrentDateExtension.cs)
 
 ## App
 ### Output Screenshots
